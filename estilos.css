@@ -1,0 +1,70 @@
+
+
+
+header {
+    margin: 30px;
+    padding: 5px;
+    display: flex;
+    background-color: orange;
+}
+
+#datos_01 {
+    width: 30%;
+
+}
+
+#datos_02 {
+    width: 80%;
+    float: right;
+    text-align: right;
+    font-family: arial;
+    font-weight: bold;
+}
+
+#nombre{
+    font-family: arial;
+    font-size: 35px;
+}
+
+#cargo{
+    font-family: arial;
+    font-style: oblique;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+
+h2, h3 {
+    font-family: arial;
+    text-decoration: underline;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    padding: 18px;
+}
+
+article, aside {
+    margin: 30px;
+    padding: 5px; 
+}
+
+.info {
+    Font-family: Copperplate, Copperplate Gothic Light, fantasy;
+    font-size: 20px;
+}
+
+li {
+    list-style: square;
+    Font-family: Copperplate, Copperplate Gothic Light, fantasy;
+    font-size: 20px;
+}
+
+td {
+    Font-family: Copperplate, Copperplate Gothic Light, fantasy;
+    font-size: 20px;
+    table-layout: auto;
+    width: 100%; 
+}
